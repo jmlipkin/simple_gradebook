@@ -1,0 +1,17 @@
+// ////////////////////////////////////////////////////////
+// Author: Jared Lipkin
+//   Date: 05/28/2024
+//
+// TODO: Add file description
+//
+// ////////////////////////////////////////////////////////
+
+#ifndef STUDENT_H
+#define STUDENT_H
+
+class Student {
+    private:
+    public:
+};
+
+#endif
